@@ -12,6 +12,7 @@
 * Eslintrc 
 * Bootstrap
 * API de Dark Sky
+* API Flickr
 
 ## Autores
 
@@ -28,7 +29,7 @@
 
 ## Producto
 
-![](public/assets/images/.png)
+![](public/assets/images/end.png)
 
 ## Licencia
 
