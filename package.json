@@ -1,0 +1,23 @@
+{
+  "name": "api-weather",
+  "version": "1.0.0",
+  "description": "¿Has visto que los sistemas operativos móviles vienen con una APP de predicción del clima? ¡Vamos a hacer la nuestra! Para ello, usaremos la API de Dark Sky y esperemos llegues a usar un API de imágenes como Flickr, Unsplash u otro. A continuación te dejamos unos slides con algunos recursos y guías del flujo de la app. Recuerda que no es necesario que sigas el diseño al pie de la letra, eres completamente libre de adaptarlo a tus gustos.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jymmak/api-weather.git"
+  },
+  "author": "Pamela Rojas & JymmaMogollon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jymmak/api-weather/issues"
+  },
+  "homepage": "https://github.com/jymmak/api-weather#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

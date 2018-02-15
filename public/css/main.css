@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+}
+/*phones*/
+@media (min-width: 0) and (max-width: 767px) {
+}
